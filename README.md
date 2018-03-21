@@ -1,0 +1,2 @@
+# mautic-wordpress
+WordPress Plugin
